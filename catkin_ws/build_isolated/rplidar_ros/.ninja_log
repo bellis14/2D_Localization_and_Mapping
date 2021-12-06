@@ -1,0 +1,15 @@
+# ninja log v5
+1	468	1638760709221878528	CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/timer.cpp.o	b4cec47087ea0453
+0	537	1638760709289895943	CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_serial.cpp.o	d214cec879ec55bc
+1	657	1638760709409926676	CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_socket.cpp.o	65dc093aca01b301
+469	992	1638760709746012729	CMakeFiles/rplidarNode.dir/sdk/src/hal/thread.cpp.o	4e857568ff1d49ba
+537	1630	1638760710382174275	CMakeFiles/rplidarNode.dir/sdk/src/rplidar_driver.cpp.o	9abbb332788e521b
+0	2837	1638760711590477311	CMakeFiles/rplidarNode.dir/src/node.cpp.o	6a7dbb98b3abac30
+2838	3025	1638760711778524132	/home/ubuntu/catkin_ws/devel_isolated/rplidar_ros/lib/rplidar_ros/rplidarNode	bee2ee1d7ab14a92
+657	3269	1638760712022584841	CMakeFiles/rplidarNodeClient.dir/src/client.cpp.o	81822c9c34ca3273
+3269	3419	1638760712174622174	/home/ubuntu/catkin_ws/devel_isolated/rplidar_ros/lib/rplidar_ros/rplidarNodeClient	7bd88a477d23d6c4
+2	25	0	CMakeFiles/install.util	a030d26a38eb98a6
+2	15	0	CMakeFiles/install.util	a030d26a38eb98a6
+3	17	0	CMakeFiles/install.util	a030d26a38eb98a6
+2	15	0	CMakeFiles/install.util	a030d26a38eb98a6
+3	18	0	CMakeFiles/install.util	a030d26a38eb98a6

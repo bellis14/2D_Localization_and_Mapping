@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install_isolated
+
+Name: gbot_core
+Description: Description of gbot_core
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lgbot_core
+Requires: roscpp
