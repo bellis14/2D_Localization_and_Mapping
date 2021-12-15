@@ -28,6 +28,9 @@ The system is divided into three main parts, mobility, mapping, and visualizatio
 ![](map_images/Apartment_Plan.png)
 ![](map_images/Apartment_Floor_Plan.png)
 
+## Accomplishments
+This project won 1st place at the 2021 Fall Research and Creative Works Conference at Brigham Young University Idaho 
+
 ## Video Demonstration
 https://youtu.be/31oRrxS-QlA
 
