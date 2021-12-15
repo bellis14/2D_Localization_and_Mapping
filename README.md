@@ -22,6 +22,9 @@ The system is divided into three main parts, mobility, mapping, and visualizatio
 - Sphero Rover
 - 3D Printed Mount
 
+## Improvements
+The rover experiences poor map quality when the rover rotates and spins around. The map quality seen below was obtained by minimizing the amount of rotation. Given more time a inertial measurement unit (IMU) would have potentially resolved this issue and even enhanced the quality of the maps altogether.
+
 ## Map Quality
 ![](map_images/STC_First_Floor.png)
 ![](map_images/STC_Third_Floor.png)
