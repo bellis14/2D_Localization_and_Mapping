@@ -37,4 +37,7 @@ This project won 1st place at the 2021 Fall Research and Creative Works Conferen
 ## Video Demonstration
 https://youtu.be/31oRrxS-QlA
 
+## Documentation
+https://docs.google.com/document/d/1c38gQASzHxJx3i62ZdohEc2X1EsVXQmfYe67irOfdH0/edit?usp=sharing
+
 
